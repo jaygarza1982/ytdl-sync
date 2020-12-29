@@ -1,0 +1,555 @@
+1593130920039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledn60p3"
+1593130922521	Marionette	INFO	Listening on port 34067
+1593130922553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593130970675	Marionette	INFO	Stopped listening on port 34067
+1593131338285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuNTicT"
+1593131340705	Marionette	INFO	Listening on port 39289
+1593131340799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593132089479	Marionette	INFO	Stopped listening on port 39289
+1593133385254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegZjO5O"
+1593133388065	Marionette	INFO	Listening on port 36769
+1593133388164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593133406170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9XgLCA"
+1593133408453	Marionette	INFO	Listening on port 32775
+1593133408489	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593133499254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhMwhf"
+1593133501590	Marionette	INFO	Listening on port 43719
+1593133501666	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkButton does not have a child property called expand
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkButton does not have a child property called fill
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkButton does not have a child property called position
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkToggleButton does not have a child property called expand
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkToggleButton does not have a child property called fill
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.498: GtkToggleButton does not have a child property called position
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): Gtk-WARNING **: 21:05:15.584: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17484): GStreamer-CRITICAL **: 21:05:15.736: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593133531885	Marionette	INFO	Stopped listening on port 36769
+1593133623688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePRuhbd"
+1593133626036	Marionette	INFO	Listening on port 36773
+1593133626095	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.537: GtkButton does not have a child property called expand
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.537: GtkButton does not have a child property called fill
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.537: GtkButton does not have a child property called position
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.538: GtkToggleButton does not have a child property called expand
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.538: GtkToggleButton does not have a child property called fill
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.538: GtkToggleButton does not have a child property called position
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): Gtk-WARNING **: 21:07:17.686: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:17898): GStreamer-CRITICAL **: 21:07:17.848: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593133821446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile81VFxX"
+1593133823814	Marionette	INFO	Listening on port 45435
+1593133823852	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1593134120738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5iLvjF"
+1593134122986	Marionette	INFO	Listening on port 34339
+1593134123044	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkButton does not have a child property called expand
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkButton does not have a child property called fill
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkButton does not have a child property called position
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkToggleButton does not have a child property called expand
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkToggleButton does not have a child property called fill
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.637: GtkToggleButton does not have a child property called position
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): Gtk-WARNING **: 21:15:34.729: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18883): GStreamer-CRITICAL **: 21:15:34.911: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+1593134154903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMGti4x"
+1593134157007	Marionette	INFO	Listening on port 45135
+1593134157018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593134157919	Marionette	INFO	Stopped listening on port 45135
+1593134157942	Marionette	INFO	Stopped listening on port 34339
+1593134374198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewkMYxN"
+1593134376789	Marionette	INFO	Listening on port 46077
+1593134376816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593134378248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593134389725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT6q7iJ"
+1593134392135	Marionette	INFO	Listening on port 40581
+1593134392232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593134393411	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkButton does not have a child property called expand
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkButton does not have a child property called fill
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkButton does not have a child property called position
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkToggleButton does not have a child property called expand
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkToggleButton does not have a child property called fill
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.103: GtkToggleButton does not have a child property called position
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): Gtk-WARNING **: 21:20:12.197: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:20664): GStreamer-CRITICAL **: 21:20:12.351: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+1593134470382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenvQh7H"
+1593134472530	Marionette	INFO	Listening on port 44993
+1593134472609	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593134482312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2I1qbc"
+1593134484578	Marionette	INFO	Listening on port 38433
+1593134484619	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkButton does not have a child property called expand
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkButton does not have a child property called fill
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkButton does not have a child property called position
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkToggleButton does not have a child property called expand
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkToggleButton does not have a child property called fill
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.670: GtkToggleButton does not have a child property called position
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): Gtk-WARNING **: 21:21:36.762: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:21339): GStreamer-CRITICAL **: 21:21:36.932: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593134501582	Marionette	INFO	Stopped listening on port 40581
+1593135037611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5KFgr3"
+1593135039799	Marionette	INFO	Listening on port 37563
+1593135039861	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593135175728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTaTFK8"
+1593135177910	Marionette	INFO	Listening on port 44583
+1593135177966	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1593135218060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8WuF0k"
+1593135220359	Marionette	INFO	Listening on port 34169
+1593135220382	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkButton does not have a child property called expand
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkButton does not have a child property called fill
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkButton does not have a child property called position
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkToggleButton does not have a child property called expand
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkToggleButton does not have a child property called fill
+
+(xplayer:23203): Gtk-WARNING **: 21:34:01.989: GtkToggleButton does not have a child property called position
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): Gtk-WARNING **: 21:34:02.078: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:23203): GStreamer-CRITICAL **: 21:34:02.237: gst_tag_list_get_string_index: assertion 'GST_IS_TAG_LIST (list)' failed
+1593135394570	Marionette	INFO	Stopped listening on port 34169
+1593135513471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileynHrxC"
+1593135515809	Marionette	INFO	Listening on port 34101
+1593135515884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593135574181	Marionette	INFO	Stopped listening on port 34101
+1593135576052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJWdE4l"
+1593135578266	Marionette	INFO	Listening on port 44721
+1593135578366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593135594491	Marionette	INFO	Stopped listening on port 44721
+1593135652339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9zkDwz"
+1593135654737	Marionette	INFO	Listening on port 33363
+1593135654769	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Task cancelled"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593135799224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFvyhZL"
+1593135801644	Marionette	INFO	Listening on port 38897
+1593135801733	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593135828715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQUhyoo"
+1593135831342	Marionette	INFO	Listening on port 43519
+1593135831424	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593136008289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4OuyFA"
+1593136010889	Marionette	INFO	Listening on port 36887
+1593136010910	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593136065131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilensdNgC"
+1593136067467	Marionette	INFO	Listening on port 33181
+1593136067548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593136075928	Marionette	INFO	Stopped listening on port 33181
+1593136082061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezsA700"
+1593136084748	Marionette	INFO	Listening on port 46693
+1593136084769	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593136109112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRYQnhK"
+1593136111483	Marionette	INFO	Listening on port 34971
+1593136111532	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265017159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKCIiug"
+1593265019882	Marionette	INFO	Listening on port 40025
+1593265019987	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265040447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaudRDh"
+1593265042593	Marionette	INFO	Listening on port 35871
+1593265042665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593265063026	Marionette	INFO	Stopped listening on port 35871
+1593265067221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNstv4Z"
+1593265069275	Marionette	INFO	Listening on port 39915
+1593265069358	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265130353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZv2IB3"
+1593265132698	Marionette	INFO	Listening on port 39193
+1593265132758	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265250629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePxHBv5"
+1593265252757	Marionette	INFO	Listening on port 40561
+1593265252839	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265273041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2uz3ZF"
+1593265275214	Marionette	INFO	Listening on port 46131
+1593265275251	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265437136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKWo4Q4"
+1593265439247	Marionette	INFO	Listening on port 39823
+1593265439342	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265500618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesT48xa"
+1593265502686	Marionette	INFO	Listening on port 45527
+1593265502780	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265515980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ04RnQ"
+1593265518098	Marionette	INFO	Listening on port 45499
+1593265518189	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593265539956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGLbtte"
+1593265542382	Marionette	INFO	Listening on port 46787
+1593265542468	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593266418337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEu4NhX"
+1593266421358	Marionette	INFO	Listening on port 42333
+1593266421444	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593266485871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile894kCR"
+1593266487913	Marionette	INFO	Listening on port 35679
+1593266487996	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593266652077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePtvs8u"
+1593266654279	Marionette	INFO	Listening on port 32923
+1593266654325	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593266854542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq3pALx"
+1593266856726	Marionette	INFO	Listening on port 46605
+1593266856779	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593266889801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaODYtP"
+1593266891969	Marionette	INFO	Listening on port 36349
+1593266892031	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593267247622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefZu0s5"
+1593267249831	Marionette	INFO	Listening on port 35469
+1593267249932	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593267625193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEVrXj0"
+1593267627354	Marionette	INFO	Listening on port 41721
+1593267627420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593267636573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Exiting due to channel error.
+1593371735787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh43YeL"
+1593371738562	Marionette	INFO	Listening on port 42809
+1593371738599	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593371779400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUgMRYV"
+1593371781446	Marionette	INFO	Listening on port 38175
+1593371781515	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593371858002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFq9eCs"
+1593371860222	Marionette	INFO	Listening on port 46311
+1593371860312	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593371904258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0YGVDd"
+1593371906359	Marionette	INFO	Listening on port 44789
+1593371906375	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593372742040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLqIy7"
+1593372744085	Marionette	INFO	Listening on port 35149
+1593372744170	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593372803015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4e0kRA"
+1593372805290	Marionette	INFO	Listening on port 36463
+1593372805321	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608476513611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGpXSsU"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1608476518544	Marionette	INFO	Listening on port 39091
+1608476518676	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608477425557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecmAmcQ"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1608477427822	Marionette	INFO	Listening on port 37855
+1608477427913	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1609253723452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7jcLjl"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1609253725961	Marionette	INFO	Listening on port 46403
+1609253726085	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
