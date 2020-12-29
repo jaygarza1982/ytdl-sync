@@ -1,0 +1,8 @@
+**/music
+**/images
+**/tmp
+**/testingserver
+.vscode
+**/db.sql
+*.pyc
+**/geckodriver.log

@@ -1,0 +1,145 @@
+
+<html>
+
+    <head>
+        <title>Jake's Youtube to MP3</title>
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="http://localhost:5000/css/main.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+        <script src="https://malsup.github.com/jquery.form.js"></script>
+    </head>
+    
+    <body>
+    
+        <br><br>
+        <div class="form">
+            <div class="form-group">
+                <label>Youtube URL</label>
+                <input type="text" class="form-control" id="url">
+            </div>
+    
+            <div class="form-group">
+                <label>Filename</label>
+                <input type="text" class="form-control" id="filename">
+            </div>
+    
+            <div class="form-group">
+                <label>Title</label>
+                <input type="text" class="form-control" id="title">
+            </div>
+    
+            <div class="form-group">
+                <label>Artist</label>
+                <input type="text" class="form-control" id="artist">
+            </div>
+    
+            <div class="form-group">
+                <label>Album</label>
+                <input type="text" class="form-control" id="album">
+            </div>
+    
+            <div class="form-group"><label>Album Art</label></div>
+    
+            <form action="/upload-image" enctype="multipart/form-data" class="form-horizontal" method="post" id="image-form">
+                <input type="file" id="filePick" name="image" class="form-control">
+                <br>
+                <button id="btnChooseArt" class="invisible">Choose Art</button>
+                <br><br>
+                <div class="preview">
+                    <img id="art" src="">
+                </div>
+            </form>
+    
+            <br><br>
+            <button type="submit" class="btn btn-primary" id="btnDownload">Download</button>
+    
+            <div id="downloadInfo" style="display: none;">
+                <br><br>
+                Our server is processing the video, your download will start as soon as possible.
+                You may exit the page when your download has started.
+            </div>
+            <br><br>
+        </div>
+    
+    
+        <script type="text/javascript">
+    
+            $("#image-form").submit(function (e) {
+                e.preventDefault();
+                var formData = new FormData(this);
+    
+                $.ajax({
+                    url: "/upload-image",
+                    type: 'POST',
+                    data: formData,
+                    success: function (data) {
+                        document.getElementById("art").src = data;
+                    },
+                    cache: false,
+                    contentType: false,
+                    processData: false
+                });
+            });
+            $(document).ready(function () {
+    
+                document.getElementById("filePick").onchange = function() {
+                      $("#btnChooseArt").click();
+                };
+    
+                //On text input changed, get the title of the url given and set the value of the filename input to the title of the page
+                jQuery('#url').on('input propertychange paste', function () {
+                    $.get("http://localhost:5000/title?url=" + document.getElementById("url").value, function (data, status) {
+                        if (data != "") {
+                            //Remove the escape codes if any
+                            returnedData = $('<div/>').html(data).text();
+
+                            document.getElementById("filename").value = returnedData + ".mp3";
+        
+                            document.getElementById("downloadInfo").style.display = "none";
+        
+                            console.log(returnedData);
+                        } 
+                    });
+                });
+    
+                $("#btnDownload").click(function () {
+                    let yturl = document.getElementById("url").value;
+                    let filename = document.getElementById("filename").value;
+                    let title = document.getElementById("title").value;
+                    let artist = document.getElementById("artist").value;
+                    let album = document.getElementById("album").value;
+                    let artLink = "";
+    
+                    //If the user set an image, set the artLink to the source of the image.
+                    if (document.getElementById("art").src != "") {
+                        let srcLink = document.getElementById("art").src;
+                        let srcLinkSplit = srcLink.split('/');
+
+                        //Art link should be just the file name without the exact path
+                        artLink = srcLinkSplit[srcLinkSplit.length - 1];
+                    }
+    
+                    //Example URL
+                    let url = "http://localhost:5000/mp3?v=URL&filename=FILENAME&title=TITLE&album=ALBUM&artist=ARTIST&album-art=ART";
+                    url = url.replace("FILENAME", filename);
+                    url = url.replace("URL", yturl);
+                    url = url.replace("TITLE", title);
+                    url = url.replace("ALBUM", album);
+                    url = url.replace("ARTIST", artist);
+                    url = url.replace("ART", artLink);
+    
+                    console.log(url);
+    
+                    document.getElementById("downloadInfo").style.display = "block";
+    
+                    window.location.replace(url);
+                });
+            });
+        </script>
+    
+    </body>
+    
+    </html>
+    
