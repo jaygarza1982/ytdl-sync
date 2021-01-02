@@ -32,6 +32,14 @@ if not path.exists(db_filename):
 
 sql_writer = SQLWriter(db_filename)
 
+#If music, images, or tmp do not exist, create them
+if not os.path.exists('music'):
+    os.mkdir('music')
+if not os.path.exists('images'):
+    os.mkdir('images')
+if not os.path.exists('tmp'):
+    os.mkdir('tmp')
+
 app = Flask(__name__, static_folder='static', static_url_path='')
 app.config['SECRET_KEY'] = str(os.urandom(128))
 
@@ -191,7 +199,7 @@ def index():
     return send_file('static/index.html')
 
 if __name__ == '__main__':
-    app.run()
+    app.run('0.0.0.0')
 
 
 #http://localhost:5000/mp3?v=https://www.youtube.com/watch?v=XFmZPIUpTg4&filename=test filename.mp3&title=test title&album=test album&artist=Slaya
