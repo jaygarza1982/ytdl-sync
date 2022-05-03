@@ -190,8 +190,8 @@ def index_send_image(path):
 
 @app.route('/music/<path:path>')
 def index_send_music(path):
-    file_path = 'music/'
-    file_path += path
+    file_path = safe_join('music', path)
+    
     return send_file(file_path, as_attachment=True, attachment_filename=request.args.get('title'))
 
 @app.route('/')
